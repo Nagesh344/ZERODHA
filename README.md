@@ -1,2 +1,2 @@
 # Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+It is a Zerodha clone created solely for the purpose of learning Web Development.
